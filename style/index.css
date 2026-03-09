@@ -8,3 +8,35 @@ body {
 	margin: 0 auto;
 	font-family: sans-serif;
 }
+
+.header-container {
+	margin: 20px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.header-description{
+	color: rgb(122, 122, 122);
+	margin: 10px 0 10px 0;
+}
+
+.header-actions{
+	margin: 15px;
+	color: rgb(122, 122, 122);
+}
+
+
+
+/* .plans{
+	display:flex;
+	flex-direction: column;
+}
+
+.plan{
+	width: 100px;
+	height: 100px;
+	background-color: red; 
+}*/
+
+
